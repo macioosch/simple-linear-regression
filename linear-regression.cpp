@@ -1,8 +1,8 @@
-#include <iostream>
-#include <iomanip>
+#include <cmath>
 #include <cstdlib>
 #include <ctime>
-#include <cmath>
+#include <iomanip>
+#include <iostream>
 using namespace std;
 
 double randf(double a, double b)
